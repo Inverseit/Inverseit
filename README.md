@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ulan Seitkaliyev [@Inverseit] and I am studying in Carnegie Mellon University 24'.
+- 👀 I’m interested in math/computer science and full-stack development with MERN stack.
+- 🌱 I’m currently learning theoritical computer science
