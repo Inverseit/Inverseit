@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ulan Seitkaliyev [@Inverseit] and I am studying CS in Carnegie Mellon University 24' and have minor in math.
 - 👀 I’m interested in math/computer science and full-stack development with MERN stack and Python.
-- 🌱 I’m currently learning cloud computing and theoretical computer science.
+- 🌱 I’m currently interested in cloud computing and theoretical computer science.
